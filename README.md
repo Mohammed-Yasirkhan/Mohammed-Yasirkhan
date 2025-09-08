@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and building real-world projects
 
 <!--
 **Mohammed-Yasirkhan/Mohammed-Yasirkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
