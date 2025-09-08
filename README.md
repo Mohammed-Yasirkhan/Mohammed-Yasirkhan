@@ -1,4 +1,11 @@
-## Hi there 👋 Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and building real-world projects
+## Hi there, I'm Yasirkhan👋  
+Welcome to my GitHub profile!  
+I'm passionate about coding, open-source contributions, and building real-world projects.
+
+## 🚀 About Me
+- 🌍 I'm based in chennai.
+- 🎓 I'm currently pursuing Bachelors of Engineering.
+- 🌱 I'm actively learning  Python,java and AI/ML
 
 <!--
 **Mohammed-Yasirkhan/Mohammed-Yasirkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
